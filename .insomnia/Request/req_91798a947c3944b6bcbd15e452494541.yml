@@ -1,0 +1,25 @@
+_id: req_91798a947c3944b6bcbd15e452494541
+type: Request
+parentId: wrk_b3a7d7890edb4aa89040275a47219b8e
+modified: 1669990669496
+created: 1669931992332
+url: http://localhost/projeto/api/api.php/produto
+name: New Request
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669931992332
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_5b43fdda48c5452290d13ce77a05d567
+type: Request
+parentId: fld_e020c0a6e19b4667bcc437d5ce7b0ed5
+modified: 1670554256628
+created: 1670351155601
+url: http://localhost/api-javalis-riodosul-38/api/v1/api.php/users/login
+name: "login usuario "
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"usuemail":"gelvazio@gmail.com",
+    	"ususenha":"123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670024713476.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

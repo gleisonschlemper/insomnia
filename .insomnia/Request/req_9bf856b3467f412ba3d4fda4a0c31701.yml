@@ -1,0 +1,31 @@
+_id: req_9bf856b3467f412ba3d4fda4a0c31701
+type: Request
+parentId: fld_f8d6ae29c48842c6a4255f14b81ca390
+modified: 1671038028348
+created: 1671036759968
+url: http://localhost/sistema/api/api.php/executaalteracao
+name: alterarusuario
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+       "usucodigo": 189,
+       "usunome":"Gleison schlemper",
+       "usuemail": "gleisonschlemper@gmail.com",
+    		"usuativo" : 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670654259006
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

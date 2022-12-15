@@ -1,0 +1,28 @@
+_id: req_acaec611027144b79a3c965f15d352b5
+type: Request
+parentId: fld_e7e86891f8624fc79f7f7a07b91714d2
+modified: 1671036618030
+created: 1669835035993
+url: http://localhost/php/api-rh-senac-clone-php/api.php/users
+name: excluir
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"usucodigo": "17"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669835367272.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

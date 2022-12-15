@@ -1,0 +1,32 @@
+_id: req_fce0943f82384c328c737707b610c507
+type: Request
+parentId: fld_e7e86891f8624fc79f7f7a07b91714d2
+modified: 1669999862758
+created: 1669835775882
+url: http://localhost/php/api-rh-senac-clone-php/api.php/updatepassword
+name: updatepassword
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    
+    {
+    	"usuemail": "gleison@gmail.com",
+    	"ususenha":"123456",
+    	"ususenha_nova":"456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7e44eebb5cde453e900cd8258eaf29b2
+authentication: {}
+metaSortKey: -1669835775882
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

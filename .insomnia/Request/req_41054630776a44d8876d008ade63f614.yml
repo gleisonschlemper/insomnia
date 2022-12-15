@@ -1,0 +1,30 @@
+_id: req_41054630776a44d8876d008ade63f614
+type: Request
+parentId: fld_f8d6ae29c48842c6a4255f14b81ca390
+modified: 1671076608745
+created: 1670865138522
+url: http://localhost/sistema/api/api.php/consultausuariofiltro
+name: listausuariofiltro
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+       "campofiltro":"usucodigo",
+       "operadorfiltro":"igual",
+       "valorfiltro": 28
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670865138522
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

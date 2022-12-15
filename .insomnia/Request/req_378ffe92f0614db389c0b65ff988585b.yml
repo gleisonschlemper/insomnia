@@ -1,0 +1,31 @@
+_id: req_378ffe92f0614db389c0b65ff988585b
+type: Request
+parentId: fld_f8d6ae29c48842c6a4255f14b81ca390
+modified: 1671040715399
+created: 1671040634067
+url: http://localhost/sistema/api/api.php/executainclusao
+name: inserirusuario
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+       "usunome":"Gleison schlemper",
+       "usuemail": "gleisonschlemper@gmail.com",
+    	 "ususenha": "123456",
+    	 "usuativo" : 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670548819248
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

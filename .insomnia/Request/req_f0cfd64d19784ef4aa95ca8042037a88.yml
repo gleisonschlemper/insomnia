@@ -1,0 +1,32 @@
+_id: req_f0cfd64d19784ef4aa95ca8042037a88
+type: Request
+parentId: fld_e7e86891f8624fc79f7f7a07b91714d2
+modified: 1670348394443
+created: 1669834580570
+url: http://localhost/php/api-rh-senac-clone-php/api.php/users
+name: inserir
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"usunome":"Gleison",
+    	"usuemail":"gleison@gmail.com",
+    	"ususenha":"123456",
+    	"usutoken":"token",
+    	"usuativo":"1"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669835367253.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,49 @@
+_id: req_26df9276d0974689a43b2699f2afabc1
+type: Request
+parentId: fld_e020c0a6e19b4667bcc437d5ce7b0ed5
+modified: 1671108207501
+created: 1671045954682
+url: https://api.portaldatransparencia.gov.br/api-de-dados/auxilio-emergencial-beneficiario-por-municipio
+name: listarauxilio
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_d6d938b55cd34c229242d0c7bb15fd94
+    name: codigoibge
+    value: e87c65b7590a28a987705526d3812c4a
+    description: ""
+  - id: pair_793cff8a3d0f46a4b66e25902a4c3701
+    name: chave-api-dados
+    value: "202201"
+    description: ""
+  - id: pair_fe4c2fd31a2b4d3c823c526cc03896d3
+    name: mesAno
+    value: "202201"
+    description: ""
+  - id: pair_feb48b723c19404ab9f28e20d3802679
+    name: pagina
+    value: "11"
+    description: ""
+headers:
+  - id: pair_6b94fd06dcdd4782a1dbdf3f2f70e025
+    name: chave-api-dados
+    value: e87c65b7590a28a987705526d3812c4a
+    description: ""
+  - id: pair_2103b3580c014fab9d97e6811dc92111
+    name: codigoibge
+    value: "202201"
+    description: ""
+  - id: pair_c4e9c8ee979443579c0951eb1a28732e
+    name: pagina
+    value: "11"
+    description: ""
+authentication: {}
+metaSortKey: -1671045954682
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

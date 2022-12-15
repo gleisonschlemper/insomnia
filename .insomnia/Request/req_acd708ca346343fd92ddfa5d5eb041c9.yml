@@ -1,0 +1,25 @@
+_id: req_acd708ca346343fd92ddfa5d5eb041c9
+type: Request
+parentId: fld_f8d6ae29c48842c6a4255f14b81ca390
+modified: 1670957712101
+created: 1669915240458
+url: http://localhost/sistema/api/api.php/usuario
+name: listausuario
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_19d37d54972741858dcdbd3ff1f4bfad
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1669915240458
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_6f1a6fe7ad4e47b0ae1137dc4b42b2af
+type: Request
+parentId: fld_e020c0a6e19b4667bcc437d5ce7b0ed5
+modified: 1670348329904
+created: 1670348319701
+url: http://localhost/api-javalis-riodosul-38/api/v1/api.php/users/all
+name: Listar usuarios
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670089342281
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

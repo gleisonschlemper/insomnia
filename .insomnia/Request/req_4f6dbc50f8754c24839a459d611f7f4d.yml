@@ -1,0 +1,31 @@
+_id: req_4f6dbc50f8754c24839a459d611f7f4d
+type: Request
+parentId: fld_e020c0a6e19b4667bcc437d5ce7b0ed5
+modified: 1670554253556
+created: 1670348366182
+url: http://localhost/api-javalis-riodosul-38/api/v1/api.php/users/store
+name: gravar usuario
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"usunome":"Gleison",
+    	"usuemail":"devschlemper@gmail.com16456",
+    	"ususenha":"123456",
+    	"usuativo": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670046256411.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

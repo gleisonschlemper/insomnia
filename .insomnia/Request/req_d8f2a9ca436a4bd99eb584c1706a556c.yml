@@ -1,0 +1,28 @@
+_id: req_d8f2a9ca436a4bd99eb584c1706a556c
+type: Request
+parentId: fld_6240470a432c48a9ae430c46ebbe03d3
+modified: 1671076617300
+created: 1670975283721
+url: http://localhost/crud/api/api.php/todosAlunos
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"colcodigo": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670975283721
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

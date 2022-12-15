@@ -1,0 +1,28 @@
+_id: req_8c91659094a748b9800e4db3c5276d8a
+type: Request
+parentId: fld_f8d6ae29c48842c6a4255f14b81ca390
+modified: 1671052015297
+created: 1670951346635
+url: http://localhost/sistema/api/api.php/excluirusuario
+name: excluirusuario
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"usucodigo": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670951346635
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

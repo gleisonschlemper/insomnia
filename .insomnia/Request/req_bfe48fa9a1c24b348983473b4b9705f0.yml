@@ -1,0 +1,28 @@
+_id: req_bfe48fa9a1c24b348983473b4b9705f0
+type: Request
+parentId: fld_e020c0a6e19b4667bcc437d5ce7b0ed5
+modified: 1670554260781
+created: 1670354969966
+url: http://localhost/api-javalis-riodosul-38/api/v1/api.php/users/delete
+name: delete usuario
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"usucodigo": 42
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670013942009.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

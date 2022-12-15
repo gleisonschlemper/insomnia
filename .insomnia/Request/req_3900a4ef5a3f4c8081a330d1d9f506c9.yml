@@ -1,0 +1,26 @@
+_id: req_3900a4ef5a3f4c8081a330d1d9f506c9
+type: Request
+parentId: fld_6240470a432c48a9ae430c46ebbe03d3
+modified: 1671052783786
+created: 1670538936903
+url: http://localhost/crud/api/api.php/todosAluno
+name: listaralunos
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_21a4d2e4f31e4e37a3441614f582e572
+authentication: {}
+metaSortKey: -1670443379490
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
